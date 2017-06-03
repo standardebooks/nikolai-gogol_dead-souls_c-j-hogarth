@@ -19,10 +19,14 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Dead Souls</dc:title>
 		<meta property="file-as" refines="#title">Dead Souls</meta>
-		<dc:subject id="subject-1">Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Swindlers and swindling -- Russia -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Satire</dc:subject>
+		<dc:subject id="subject-2">Humorous stories</dc:subject>
+		<dc:subject id="subject-3">Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Swindlers and swindling -- Russia -- Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1081</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1081</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1081</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1081</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Pavel Chichikov travels through Russia buying the titles of dead serfs.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -34,8 +38,10 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1081</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<dc:source>https://archive.org/details/deadsouls1916gogo</dc:source>
+		<meta property="se:production-notes">Horizontal rules have been added to signify missing pages.</meta>
+		<meta property="se:word-count">142365</meta>
+		<meta property="se:reading-ease.flesch">66.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dead_Souls</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nikolai-gogol_dead-souls</meta>
 		<dc:creator id="author">Nikolai Gogol</dc:creator>
@@ -48,7 +54,13 @@
 		<meta property="file-as" refines="#translator">Hogarth, D. J.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2010098798</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="author-of-introduction">John Cournos</dc:contributor>
+		<meta property="file-as" refines="#author-of-introduction">Cournos, John</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/John_Cournos</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n82067305</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Alphonse Mucha</dc:contributor>
 		<meta property="file-as" refines="#artist">Mucha, Alphonse</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Alfons Maria Mucha</meta>
@@ -67,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
