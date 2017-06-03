@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/d-j-hogarth</dc:identifier>
 		<dc:date>2017-06-03T15:57:05Z</dc:date>
-		<meta property="dcterms:modified">2017-06-03T16:14:21Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2017-06-03T19:07:05Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,7 +40,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1081</dc:source>
 		<dc:source>https://archive.org/details/deadsouls1916gogo</dc:source>
 		<meta property="se:production-notes">Horizontal rules have been added to signify missing pages.</meta>
-		<meta property="se:word-count">142365</meta>
+		<meta property="se:word-count">142352</meta>
 		<meta property="se:reading-ease.flesch">66.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dead_Souls</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nikolai-gogol_dead-souls_d-j-hogarth</meta>
@@ -50,6 +50,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Nikolai_Gogol</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056736</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="translator">D. J. Hogarth</dc:contributor>
 		<meta property="file-as" refines="#translator">Hogarth, D. J.</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2010098798</meta>
