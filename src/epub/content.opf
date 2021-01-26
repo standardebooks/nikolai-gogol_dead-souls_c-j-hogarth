@@ -45,7 +45,7 @@
 		<dc:description id="description">Pavel Chichikov travels through Russia buying the titles of dead serfs.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Dead Souls&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/nikolai-gogol"&gt;Nikolai Gogol’s&lt;/a&gt; last novel, and follows the tale of Pavel Chichikov, a down-on-his-luck gentleman determined to improve his lot in life. The story charts his scheme to purchase dead souls—the titles of deceased serfs—from wealthy landowners.&lt;/p&gt;
-			&lt;p&gt;The novel’s satirical take on the state of Russian society at the time leads Chichikov into increasingly difficult circumstances, in his attempts to cheat the both the system and the cavalcade of townspeople he meets along the way.&lt;/p&gt;
+			&lt;p&gt;The novel’s satirical take on the state of Russian society at the time leads Chichikov into increasingly difficult circumstances, in his attempts to cheat both the system and the cavalcade of townspeople he meets along the way.&lt;/p&gt;
 			&lt;p&gt;Originally planned as a trilogy, Gogol apparently only completed the first two parts, and destroyed the latter half of the second part before his death. The novel as it stands ends in mid sentence but is regarded as complete.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
