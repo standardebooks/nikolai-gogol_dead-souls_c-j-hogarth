@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1081</dc:source>
 		<dc:source>https://archive.org/details/deadsouls1916gogo</dc:source>
 		<meta property="se:production-notes">Horizontal rules have been added to signify missing pages. The translator's name was misprinted in the page scans as "D. J. Hogarth".</meta>
-		<meta property="se:word-count">142419</meta>
+		<meta property="se:word-count">142420</meta>
 		<meta property="se:reading-ease.flesch">66.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Dead_Souls</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nikolai-gogol_dead-souls_c-j-hogarth</meta>
