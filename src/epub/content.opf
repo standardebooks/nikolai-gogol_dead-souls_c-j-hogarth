@@ -74,7 +74,7 @@
 		<meta property="file-as" refines="#author-of-introduction">Cournos, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/John_Cournos</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n82067305</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Alphonse Mucha</dc:contributor>
 		<meta property="file-as" refines="#artist">Mucha, Alphonse</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Alfons Maria Mucha</meta>
