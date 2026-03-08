@@ -29,8 +29,6 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Dead Souls</dc:title>
 		<meta property="file-as" refines="#title">Dead Souls</meta>
-		<meta property="dcterms:alternative" refines="#title">Myórtvyye dúshi</meta>
-		<meta property="alternate-script" refines="#title">Мёртвые души</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Humorous stories</dc:subject>
 		<dc:subject id="subject-3">Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
