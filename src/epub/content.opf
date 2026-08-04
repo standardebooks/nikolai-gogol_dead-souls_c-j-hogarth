@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Pavel Chichikov travels through Russia buying the titles of dead serfs.</dc:abstract>
+		<meta property="schema:abstract">Pavel Chichikov travels through Russia buying the titles of dead serfs.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Dead Souls&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/nikolai-gogol"&gt;Nikolai Gogol’s&lt;/a&gt; last novel, and follows the tale of Pavel Chichikov, a down-on-his-luck gentleman determined to improve his lot in life. The story charts his scheme to purchase dead souls—the titles of deceased serfs—from wealthy landowners.&lt;/p&gt;
 			&lt;p&gt;The novel’s satirical take on the state of Russian society at the time leads Chichikov into increasingly difficult circumstances, in his attempts to cheat both the system and the cavalcade of townspeople he meets along the way.&lt;/p&gt;
